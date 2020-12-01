@@ -1,1 +1,1 @@
-Link: docker push ruifcsantosdev/challenge_golang
+Link: docker pull ruifcsantosdev/challenge_golang
